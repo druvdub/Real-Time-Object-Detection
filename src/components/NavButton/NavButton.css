@@ -1,4 +1,5 @@
 .container {
+  background: #5D3FD3;
   min-height: 100vh;
   min-width: 100vw;
   display: flex;
